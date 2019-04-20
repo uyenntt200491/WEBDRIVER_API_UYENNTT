@@ -1,7 +1,6 @@
 package selenium; 
  import java.sql.Timestamp; 
 import java.util.Date; 
-import java.util.List; 
 import java.util.NoSuchElementException;
 import java.util.concurrent.TimeUnit; 
  import org.openqa.selenium.By; 
