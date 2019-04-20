@@ -16,7 +16,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test; 
 import com.google.common.base.Function; 
 
-public class Topic11_XpathCss2_Wait {
+public class Topic11_XpathCss2_WebDriverWaits {
 	WebDriver driver; 
   @BeforeTest 
 	  public void beforeTest() { 
