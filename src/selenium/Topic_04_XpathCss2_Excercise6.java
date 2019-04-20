@@ -10,13 +10,14 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 
-public class Topic_03_XpathCss2_Excercise4 {
+public class Topic_04_XpathCss2_Excercise6 {
     WebDriver driver;
-    String firstName = "Automation";
+	String firstName = "Automation";
 	String lastName = "Testing";
 	String email = "autoonline" + randomNumber() + "gmail.com";
 	String password = "123456";
